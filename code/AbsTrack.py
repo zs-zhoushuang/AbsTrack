@@ -6,7 +6,6 @@ import os
 import pickle
 import time
 import pylab
-from scipy.signal import savgol_filter
 
 class DETR():
     def __init__(self,train_data=None,test_data=None, test_NoTrainset=None,verbose=True,pe_input=256,
