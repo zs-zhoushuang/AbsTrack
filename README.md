@@ -1,4 +1,4 @@
-This repository contains the network implementation and dataset of the work: "Zhou S, Tian C, Hao W, et al. AbsTrack: Multi-person Absolute Localization and Trajectory Tracking Using Commodity Wi-Fi" submitted to IEEE Internet of Things Journal, 2026.
+This repository contains the network implementation and dataset of the work: "Zhou S, Tian C, Hao W, et al. AbsTrack: Multi-person Absolute Localization and Trajectory Tracking Using Commodity Wi-Fi" published in IEEE Internet of Things Journal, 2026.
 
 The network was built using Python and TensorFlow, which need Python>=3.8 and TensorFlow=1.13.
 
